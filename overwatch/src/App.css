@@ -1,0 +1,148 @@
+:root {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  box-sizing: border-box;
+  display: flex;
+  font-family: "Open Sans", sans-serif;
+}
+
+html {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  background-image: linear-gradient(rgb(0, 0, 31), rgb(30, 30, 30));
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h3 {
+  text-transform: capitalize;
+}
+
+.logo {
+  height: 450px;
+  align-self: center;
+}
+
+.selected-hero {
+  display: flex;
+  width: 100vw;
+  height: 525px;
+  gap: 80px;
+  align-items: center;
+  position: relative;
+}
+
+.selected-img {
+  border: white 2px solid;
+  margin-left: 50px;
+}
+
+.hero-info {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.description {
+  border-left: orange solid 10px;
+  width: 335px;
+  height: 100px;
+  font-weight: 700;
+  padding-left: 15px;
+  background-color: rgb(255, 255, 255);
+  padding: 15px;
+  color: rgb(0, 0, 0);
+}
+
+.select {
+  font-family: "Open Sans", sans-serif;
+  color: aqua;
+  font-size: 2rem;
+  font-weight: 700;
+  border-bottom: solid white 2px;
+  padding-left: 10px;
+  padding-right: 20px;
+  align-self: flex-start;
+  width: 950px;
+}
+
+.hero-select {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1000px;
+  gap: 15px;
+}
+
+.hero-img {
+  border-radius: 15%;
+  height: 65px;
+  border: rgb(255, 255, 255) 2px solid;
+}
+
+.hero-img:hover {
+  box-shadow: 0px 0px 3px 3px white;
+  cursor: pointer;
+}
+
+.ablilites-btn {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 18pt;
+  position: absolute;
+  left: 105px;
+  bottom: 50px;
+  z-index: 2;
+  background: orange;
+  box-shadow: 0px 0px 3px 1px white;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.ablilites-btn:hover {
+  box-shadow: 0px 0px 4px 2px white;
+  background: rgba(255, 166, 0, 0.452);
+  color: rgba(255, 255, 255, 0.575);
+}
+
+.abilities {
+  display: grid;
+  grid-template: auto / 350px 350px 350px 350px;
+  gap: 20px;
+  color: white;
+}
+
+.ability {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 8pt;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.ability:focus {
+  box-shadow: 0px 0px 5px 3px;
+}
+
+.ability-img {
+  height: 40px;
+}
+
+.video {
+  right: 10%;
+  bottom: 12%;
+}
