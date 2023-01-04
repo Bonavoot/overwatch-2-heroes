@@ -20,6 +20,7 @@ const SelectedHero = ({ currentlySelected }) => {
               backgroundSize: "cover",
             }}
           >
+            {name}
             <img
               className="selected-img"
               src={currentlySelected.image}

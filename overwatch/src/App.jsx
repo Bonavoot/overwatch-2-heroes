@@ -20,8 +20,12 @@ const App = () => {
 
   const router = createBrowserRouter([
     {
-      path: "/:name",
+      path: "/",
       element: <SelectedHero currentlySelected={currentlySelected} />,
+    },
+    {
+      path: "/:name",
+      element: <App />,
     },
   ]);
 
