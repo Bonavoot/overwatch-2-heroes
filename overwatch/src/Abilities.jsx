@@ -1,20 +1,30 @@
-const AbilityVideo = ({ currentlySelected }) => {
+const Abilities = ({ currentlySelected, isAbilities }) => {
   return (
     <>
-      <div className="abilities">
-        {currentlySelected.abilities.map((ability) => {
-          return (
-            <div key={ability.name} className="ability" tabIndex="0">
-              <img
-                className="ability-img"
-                src={ability.image}
-                alt={ability.name}
-              />
-              <h3>{ability.name}</h3>
+      {isAbilities ? (
+        <div className="abilities">
+          {currentlySelected.abilities.map((ability) => {
+            return (
+              <div key={ability.name} className="ability" tabIndex="0">
+                <img
+                  className="ability-img"
+                  src={ability.image}
+                  alt={ability.name}
+                />
+
+                <h3>{ability.name}</h3>
+              </div>
+            );
+          })}
+        </div>
+      ) : (
+        <div>
+          {currentlySelected.abilities.map((ability) => {
+            return (
               <video
-                style={{}}
+                key={ability.name}
                 className="video"
-                width="320"
+                width="720"
                 loop
                 muted
                 autoPlay
@@ -22,12 +32,13 @@ const AbilityVideo = ({ currentlySelected }) => {
                 <source src={ability.video} type="video/webm" />
                 Your browser does not support the video tag.
               </video>
-            </div>
-          );
-        })}
-      </div>
+            );
+          })}
+        </div>
+      )}
+      )
     </>
   );
 };
 
-export default AbilityVideo;
+export default Abilities;

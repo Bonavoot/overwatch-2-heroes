@@ -1,49 +1,32 @@
 import { useEffect, useState } from "react";
 import Abilities from "./Abilities";
-import { useParams } from "react-router-dom";
+import HeroInfo from "./HeroInfo";
 
 const SelectedHero = ({ currentlySelected }) => {
   const [isAbilities, setAbilities] = useState(false);
-
-  let { name } = useParams();
 
   return (
     <>
       {currentlySelected ? (
         <>
-          <div
-            className="selected-hero"
-            style={{
-              backgroundImage: `url(${currentlySelected.BGimage})`,
-              backgroundRepeat: "no-repeat",
-              backgroundPosition: "center",
-              backgroundSize: "cover",
-            }}
+          <HeroInfo
+            currentlySelected={currentlySelected}
+            isAbilities={isAbilities}
+            setAbilities={setAbilities}
+          />
+          <button
+            className="abilities-btn"
+            onClick={() => setAbilities(!isAbilities)}
           >
-            {name}
-            <img
-              className="selected-img"
-              src={currentlySelected.image}
-              alt={currentlySelected.name}
-            />
-
-            <div className="hero-info">
-              <h1>{currentlySelected.name}</h1>
-              <h3>{currentlySelected.role + " role"}</h3>
-              <h4>{"Born in  " + currentlySelected.origin}</h4>
-              <p className="description">{currentlySelected.description}</p>
-            </div>
-
-            <button
-              className="ablilites-btn"
-              onClick={() => setAbilities(!isAbilities)}
-            >
-              {isAbilities ? "HERO INFO" : "ABILITIES"}
-            </button>
-          </div>
+            {isAbilities ? "HERO INFO" : "ABILITIES"}
+          </button>
+          <Abilities
+            isAbilities={isAbilities}
+            currentlySelected={currentlySelected}
+          />
         </>
       ) : (
-        <img className="logo" src="src/assets/overwatch-logo.png" alt="logo" />
+        false
       )}
     </>
   );

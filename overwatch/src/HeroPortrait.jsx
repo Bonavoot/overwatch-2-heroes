@@ -1,15 +1,11 @@
-//import { Link } from "react-router-dom";
-
-const HeroPortrait = ({ setCurrentlySelected, hero }) => {
+const HeroPortrait = ({ setcurrentlySelected, hero }) => {
   return (
-    //<Link to={`/${hero.name}`}>
     <img
-      onClick={() => setCurrentlySelected(hero)}
+      onClick={() => setcurrentlySelected(hero)}
       className="hero-img"
       alt={hero.name}
       src={hero.image}
     />
-    //  </Link>
   );
 };
 

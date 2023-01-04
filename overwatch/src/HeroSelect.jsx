@@ -9,7 +9,7 @@ const HeroSelect = ({ heroes, setcurrentlySelected }) => {
           return (
             <HeroPortrait
               key={hero.name}
-              setCurrentlySelected={setcurrentlySelected}
+              setcurrentlySelected={setcurrentlySelected}
               hero={hero}
             />
           );

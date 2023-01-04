@@ -2,7 +2,9 @@ import "./App.css";
 import { useEffect, useState } from "react";
 import HeroSelect from "./HeroSelect";
 import SelectedHero from "./SelectedHero";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import Home from "./Home";
+
+// add <Home as a Route to "/"
 
 const App = () => {
   const [heroes, setHeroes] = useState([]);
@@ -18,32 +20,12 @@ const App = () => {
     fetchData();
   }, []);
 
-  const router = createBrowserRouter([
-    {
-      path: "/",
-      element: <SelectedHero currentlySelected={currentlySelected} />,
-    },
-    {
-      path: "/:name",
-      element: <App />,
-    },
-  ]);
-
   return (
     <div className="container">
+      <SelectedHero currentlySelected={currentlySelected} />
       <HeroSelect setcurrentlySelected={setcurrentlySelected} heroes={heroes} />
-      <RouterProvider router={router} />
     </div>
   );
 };
 
 export default App;
-/* <SelectedHero currentlySelected={currentlySelected} />
-<div className="container">
-  <HeroSelect
-    setcurrentlySelected={setcurrentlySelected}
-    heroes={heroes}
-  />
-</div>
-
-*/
