@@ -1,4 +1,3 @@
-import { useState } from "react";
 import Abilities from "./Abilities";
 import HeroInfo from "./HeroInfo";
 

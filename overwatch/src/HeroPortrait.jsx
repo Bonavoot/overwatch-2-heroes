@@ -5,6 +5,7 @@ const HeroPortrait = ({ setcurrentlySelected, hero }) => {
       className="hero-img"
       alt={hero.name}
       src={hero.image}
+      tabIndex="0"
     />
   );
 };

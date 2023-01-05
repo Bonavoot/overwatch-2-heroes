@@ -28,7 +28,6 @@ const App = () => {
         currentlySelected={currentlySelected}
       />
       <HeroSelect setcurrentlySelected={setcurrentlySelected} heroes={heroes} />
-      )
     </div>
   );
 };

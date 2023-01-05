@@ -1,4 +1,4 @@
-const HeroInfo = ({ currentlySelected, isAbilities, setAbilities }) => {
+const HeroInfo = ({ currentlySelected }) => {
   return (
     <>
       <div

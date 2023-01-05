@@ -1,6 +1,14 @@
-const Abilities = ({ currentlySelected, isAbilities }) => {
+const Abilities = ({ currentlySelected }) => {
   return (
-    <div className="abilities">
+    <div
+      className="abilities"
+      style={{
+        backgroundImage: `url(${currentlySelected.BGimage})`,
+        backgroundRepeat: "no-repeat",
+        backgroundPosition: "center",
+        backgroundSize: "cover",
+      }}
+    >
       {currentlySelected.abilities.map((ability) => {
         return (
           <div className="ability">
