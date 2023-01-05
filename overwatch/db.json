@@ -23,11 +23,6 @@
           "name": "Biotic Grenade",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/c8190b234bf0a0e28eecffe162d0c942e6b8656e95f4688c6ca3b025fa5a487d.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt73fcfa06c4272760/6339047d3922a2677fc88cf6/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_AnaBioticGrenade_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Nano Boost",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6fda18b343f3fd0e8dc50fa5a91589e1ca9ed7471a354f61dfc9f22b27b19497.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt557e93a659cf572c/6339047e1a0b5e7d3d1ec595/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_AnaNanoBoost_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -54,11 +49,6 @@
           "name": "Dynamite",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a326b202a821ab3e196d1faab6144460f470001b26a8b6f2ab96cb3af5f325b3.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt9de32278cc1b4ea0/633904ba399a07678557c13d/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_AsheDynamite_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "B.O.B.",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e788b12d476e896dac3831bbc0842fb3b4d07a89b3c337959d9a6cd6ea5a7df5.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltc1dff03c9903dad0/633904baec7e18758be51042/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_AsheBOB_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -85,16 +75,6 @@
           "name": "Immortality Field",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d66d82bab88fc813080dd15e31629cc3aa7c8b41cfb41d5b962b628dd345e433.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt49d5044931702908/633904ee425ea374105b6149/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_BaptisteImmortalityField_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Amplification Matrix",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/0a31371b55e4007e67a86f8495949970d20f64b2f0166e78d3fd16217e090a83.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt7a25150a03ce362c/633904ee3917977bfd9861a9/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_BaptisteAmplificationMatrix_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Exo Boots",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/0d598afba5a03761d617d735d5435323c56108655b5017ddf8c36c4af36b9b73.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt3bcabdb3953f9732/633904ee399a07678557c141/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_BaptisteExoBoots_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -121,16 +101,6 @@
           "name": "A-36 Tactical Grenade",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/22f9f8c043e1746011d7dcee2e811e0d24470bd0eb5128fca9c3aea2f2dcfe69.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltf82d9027fc65b411/6333a4ed399a07678557c09f/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_BastionA36TacticalGrenade_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Reconfigure",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/56bef8912e83cac59dc0acb08bcaef591ff2ed52385424e8d753c03bbb77e4e9.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt2a87d31be573db89/6333a4ee1ccd046877c0e42d/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_BastionReconfigure_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Configuration: Artillery",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/06c377aef476bfb21ee1dca3d4d1151f8a4131b388a5489f3dfce6fb232a2711.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt6a134c21d10e0ad8/6333a4ee3917977bfd9860fd/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_BastionConfiguration-Artillery_WEB_16x9_1920x1080p30_H264.webm"
         }
       ]
     },
@@ -158,21 +128,6 @@
           "name": "Barrier Shield",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2b1bb6338180161e55c5f2184879dce395eca9e58f974befe729293fcc3dfdca.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltdb92d8a4ea1f10cf/6333c831b8dbde69f5279844/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_BrigitteBarrierShield_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Shield Bash",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/79f145b07b35e744fd0400dceff5fb11a06f9a73c48809f1cfb462fe82fe1185.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltba937e7dd7510c8c/6333cdce2dc7636608cc7098/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_BrigitteShieldBash_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Rally",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/08552423da53faa55238bd66a2a72d32d1038e42f2eebc911921bc9d5d575432.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltcdf710bd1a147fc5/6333c8312dc7636608cc7070/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_BrigitteRally_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Inspire",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/487545fb37163e4029e1e8483266180fbcc59b7e8482062563168998774615f8.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blte42e0e1a880df5d6/6333c831ed7dcc6a002802e2/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_BrigitteInspire_WEB_16x9_1920x1080p30_H264.webm"
         }
       ]
     },
@@ -199,11 +154,6 @@
           "name": "Magnetic Grenade",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47a593ad7f83394b011161e67a6f414e49f2221c5e014ea909fdcd9df4f94371.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt689182d19367028e/6333c9878537f87bfbcdc342/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_CassidyMagneticGrenade_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Deadeye",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/346cb576a19f978a7b2c52859c5639423f076d66ca740658da0d46955ab2c97d.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt22e1c46d23134283/6333c987399a07678557c0ab/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_CassidyDeadeye_WEB_16x9_1920x1080p30_H264.webm"
         }
       ]
     },
@@ -230,23 +180,6 @@
           "name": "Boosters",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/89d6beb25b21eacd5a181b96438436692d9ad403fcef19873e506f6d46ed37a3.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt7d432cfbd853fe5b/63390517ec7e18758be51046/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_DVaBoosters_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Defense Matrix",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2713a8ef6742f4009da072d66d382eb8ff3dd8e00828deadb5af1a93b0d8ce4b.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt6bf953a22b0e5868/63390517ed7dcc6a002803ac/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_DVaDefenseMatrix_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-
-        {
-          "name": "Self-Destruct",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f76e4b710ceb71f2e260029fc8d0ad15b227e3f006ab1b6c0c4e44da98c2d614.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blta934a2a156df8bf3/63390518da1d806602f83ef6/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_DVaSelfDestruct_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-
-        {
-          "name": "Eject!",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/692a603c9945e600b195d1fd56364979363926f42d950b95c4811e7047e94c97.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltb5b7251aa6743026/633905178537f87bfbcdc400/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_DVaEject_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -273,16 +206,6 @@
           "name": "Seismic Slam",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/20f721d5fd05f91e203d6e0007a137bdc90a161356f85d5aa88b2ab02b8da22b.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltb59045a8c3544135/6333ca4eda1d806602f83e30/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_DoomfistSeismicSlam_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Power Block",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/56267df764931eadeae09513e0f1b9594ae238eebba84878c501ba4b69acb71f.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltdfb81c587788a7ec/6333ca4e1a0b5e7d3d1ec4d5/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_DoomfistPowerBlock_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Meteor Strike",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/fa96b2650987b3784a725a0fb1704f7191a686a4f42c9ccf61c404e2f08b158c.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltf92397ef632cadfd/6333ca4eed7dcc6a002802ee/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_DoomfistMeteorStrike_WEB_16x9_1920x1080p30_H264.webm"
         }
       ]
     },
@@ -309,21 +232,6 @@
           "name": "Flight",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/711f211c988ff1fafe99276bddefa3a861789e4b27859260e8ad87df5b879337.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt71b50ffb439eafe6/6339058fec7e18758be5104e/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_EchoFlight_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Focusing Beam",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6552feeb85a32ae7131df50f61a9c0fa24bf347bf007e208a356a940561129ae.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltacf16f2d032ada5d/6339058f64fe5a7d4481a070/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_EchoFocusingBem_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Duplicate",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/457d6ebcb2b92d1e7f7a7174b426903879e131422196825589adbc5e5d9f7efb.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt78aa693d01ffec06/633905907e84e17596f9c8aa/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_EchoDuplicate_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Glide",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e90772df1f7e55d4ea6e639ce909773ae2e28172d06afd8afa00e85bbef0a20d.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt1574c7dc5a9cec2b/633905903917977bfd9861b7/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_EchoGlide_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -350,16 +258,6 @@
           "name": "Swift Strike",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a6639d5240b77967a734fc5e2af960fd38dccd834430a4a3409add345bb7e21e.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt1439d510340336a6/633905b2f87c00687e8ef232/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_GenjiSwiftStrike_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Dragonblade",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e9c3c82c08ce1a6006dbdf6905591040ed83ddceba81efb2e526c217cd57c931.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt09ca4d1905bcc68b/633905b21a0b5e7d3d1ec5b1/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_GenjiDragonStrike_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Cyber-Agility",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/c14b2c5652526a006233965b176fb2b5af9e7c5d44045fad3844267303f07091.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltee675189c2aae8a2/633905b2ec7e18758be51052/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_GenjiCyberAgility_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -386,21 +284,6 @@
           "name": "Sonic Arrow",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6a71d18cc52e49380aa9eb57f979524033a3e79bd3153900a12bb553d5a0e6f0.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt2e7bc2f1d029fd5a/633905cf64fe5a7d4481a074/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_HanzoSonicArrow_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Lunge",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/cd1390347345e7825dff95758b3d5ed02a3497a013400a4faaefb2c77f07ee14.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt3c6eeaeca63e0c31/633905cfed7dcc6a002803b8/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_HanzoLunge_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Dragonstrike",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f2d63b8f0e19e91d2c1199ed3ac0f20bb180dabe9ad1ffc7d1f1e880e58f0220.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt23c80adbfeee1c21/633905cf8537f87bfbcdc418/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_HanzoDragonstrike_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Wall Climb",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/c14b2c5652526a006233965b176fb2b5af9e7c5d44045fad3844267303f07091.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt38bf3505c04b4fbf/633905d064fe5a7d4481a078/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_HanzoWallClimb_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -427,21 +310,6 @@
           "name": "Commanding Shout",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/1809c57884dafcfd1aab89eb80d2ad8fe0c64ce0036646a3e19c05f48c322c9d.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltadbe73567e78e2ed/6333ca86399a07678557c0b5/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_JunkerQueenCommandingShout_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Carnage",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/74c40565f02f550ed362d8a5aaed21de94a3ff1915185cb4b93d6ce6207f03ab.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt6e1b79a8d6954942/6333ca863922a2677fc88c44/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_JunkerQueenCarnage_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Rampage",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/68b7d33215b777410b834ba2e9e7202d5ecff15fe012712facd974ec32895c36.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt34c8d2797f0bfb74/6333ca86da1d806602f83e38/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_JunkerQueenRampage_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Adrenaline Rush",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e1706243e4996af6844e7f8233bbd3f98f04583a223cd3ad926d40ef6c4c8557.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt15b00722c10115dc/6333ca86ed7dcc6a002802f6/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_JunkerQueenAdrenalineRush_WEB_16x9_1920x1080p30_H264.webm"
         }
       ]
     },
@@ -468,16 +336,6 @@
           "name": "Steel Trap",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/425136ea32c08355f33df230d900a8cc8010ee7a2b27314f6a1e395bd78eb5aa.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltef8b7c2d3b18027a/633905eee3c2a2741688cbbd/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_JunkratSteelTrap_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "RIP-Tire",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d16b5c6c337b1c0ecee3e5bf0760c870927e921fed8f0caed12dcb996b5347ae.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt4cc2a4b27f732f0a/63390692f87c00687e8ef242/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_MeiIceWall_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Total Mayhem",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/82e123991088b3c13edb1158d0bc4281f752896f8f3ddb76d4e3407e8f52f88d.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt39dd8e398857bf41/633905efda1d806602f83f02/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_JunkratTotalMayhem_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -504,16 +362,6 @@
           "name": "Swift Step",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e6ed3a36c4ed15b2127d6ca74756b25e0db7cf33ce7e26d9a79fd821526f055f.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blta710b0f008b60146/6333cab6b8dbde69f5279854/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_KirikoSwiftStep_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Protection Suzu",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3775c37a363e1aaf02a6df4cdfb611f18e38bb69ce42dd59abddb4140cea9790.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt1fc01e8f0b2b46b9/6333cab6da1d806602f83e3c/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_KirikoProtectionSuzu_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Kitsune Rush",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f29fd68592d73f20da39d783e0e2f86dcc65c311912d3284062d2bd1a8aa1c52.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt6019d31b0d1e522d/6333cab6ec7e18758be50fb4/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_KirikoKitsuneRush_WEB_16x9_1920x1080p30_H264.webm"
         }
       ]
     },
@@ -540,21 +388,6 @@
           "name": "Amp It Up",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/023a4fcb7ff780b15f62a894fa4ee07f13428c3f1cee17d575884dbe820e0c13.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt872fc422b68fd1dc/6339062db8dbde69f5279912/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_LucioAmpItUp_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Soundwave",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a8e254a309bf77a5c8b98f5a5893fcd252a17775e48db367028982989185bed2.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt6b5c657636360853/6339062d399a07678557c15f/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_LucioSoundwave_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Sound Barrier",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/21c5a17be341a3c0da2dcc9372f4f3c88ef622c80776360bd844d0fba3eb88a7.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt8f6cb68cbc108b8a/6339062d7e84e17596f9c8b8/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_LucioSoundBarrier_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Wall Ride",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/c14b2c5652526a006233965b176fb2b5af9e7c5d44045fad3844267303f07091.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt250546bb0c5abe6c/6339062d8537f87bfbcdc420/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_LucioWallRide_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -581,11 +414,6 @@
           "name": "Ice Wall",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/bd63b2d05e4a2aa8615b7cad828fd05427f07e69c7611a662c5cb0d726b82627.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blta25fd92f79da6f30/633905ee3922a2677fc88d24/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_JunkratRipTire_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Blizzard",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/892fd12cc3f8bd3b54bbc175b6d8caecdedaa819c819c5fc216c3c2b4f486a3f.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt221ceddd43566301/633906927e84e17596f9c8c0/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_MeiBlizzard_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -612,21 +440,6 @@
           "name": "Guardian Angel",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e6d6f1f8288bb9a61fcfb85db90a49d3228277d18ac190898567bed4e7799ddc.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt50bbbe7878b50caa/633906b21a0b5e7d3d1ec5c1/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_MercyGuardianAngel_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Resurrect",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d26768cf459611eedc4fdcc9096ad3b196e8b2babb0782cf24d56f108325e3bb.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blta89b3626e78a2a0d/633906b3f87c00687e8ef246/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_MercyResurrect_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Angelic Descent",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d53b51360a83f35c450211d4a38859c839ad5720379d2e275a4f5826f3fe9967.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt2bd58b745bccc643/633906b23917977bfd9861cf/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_MercyAngelicDescent_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Valkyrie",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/0f5455a8a464e85370365bc954dc6c1cca11f4f5c09e7e6eee7a3dde29170c9e.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blta7cadf46bbb8ae9b/633906b3ed7dcc6a002803ce/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_MercyValkyrie_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -684,16 +497,6 @@
           "name": "Fortify",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d697fa90726cf683222920822d2ee00a85e0420c6cbc6ec2365573f313d06357.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blta6893dfa8ab7e8f0/6333cb243917977bfd986113/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_OrisaFortify_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Javelin Spin",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/804f9775ecfbc3ac2b84514e429cd8bc4e88027b00cb09126880d7f2c7759b59.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt4e8d36586338030a/6333cb2464fe5a7d44819f98/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_OrisaJavelinStep_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Terra Surge",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/8d8892b56df62b068343e5029a2ae1e2fa54f7568febac7141ffa945d02e214c.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt07961131ed11e391/6333cb23425ea374105b60b7/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_OrisaTerraSurge_WEB_16x9_1920x1080p30_H264.webm"
         }
       ]
     },
@@ -720,16 +523,6 @@
           "name": "Concussive Blast",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9747b440730824756ae2d17e4d1f38468f36c985c35f56cf1f175a613279479a.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt68298287826d9c93/633907a064fe5a7d4481a098/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_PharahConcusiveBlast_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Barrage",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/0708775beda1d200b586ae1d019522ea5ad8baa9bdcbbe076854102830f9fdae.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt9389272c22dfd1f6/633907a0b8dbde69f5279924/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_PharahBarrage_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Hover Jets",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/c14b2c5652526a006233965b176fb2b5af9e7c5d44045fad3844267303f07091.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt3629abc9db16fd0f/633907a0f87c00687e8ef254/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_PharahHoverJets_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -756,16 +549,6 @@
           "name": "Pummel (Nemesis Form)",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/1dd2e8ea208e8a79def7852a422924c0c5f791ee7f09a0541240271bd3ecb0e7.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt41bed4fdbe68adb6/637da40fd44c1b0e1f0e8bc8/1110_007_OVR_Hero-36-Abilities_Nemesis-Mode_1P_4K_ZA_01.webm"
-        },
-        {
-          "name": "Ravenous Vortex",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7a7334480013e1d2eccd7df8b4b1e2f484ca81dfe5719fd3506d1055ba79908c.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt55fefe002a2223ed/637da40f6f080311223b541a/1110_005_OVR_Hero-36-Abilities_Vortex_1P_4K_ZA_01.webm"
-        },
-        {
-          "name": "Annihilation",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/dbffca5b7b1e0dcc7a0cceaffe1fedb1a6bf7af73e71218a15df2779fc97805f.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltc5bfc1d3d6f88dce/637da40f113983111ba8ceec/1110_009_OVR_Hero-36-Abilities_Ultimate_1P_4K_ZA_02.webm"
         }
       ]
     },
@@ -792,16 +575,6 @@
           "name": "Wraith Form",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/dbcceb2a764dcf8bb808078f7a32a039fd259c72e557dcde3fb70b2041247c9a.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt8d1b14657bdcad28/6339077f1a0b5e7d3d1ec5cd/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_ReaperWraithForm_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Death Blossom",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e35595575880a304e14d427a0f9f5f04dc0886ba0f4cadd731ac935174f031e2.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt61efa33311d2413c/63390780ed7dcc6a002803d2/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_ReaperDeathBlossom_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "The Reaping",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/21fb34e5a009987c73f686336cd61d4e4b771a8a2d9b6753e62f65b41e6b6c51.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt814b7f593e78f221/633907802dc7636608cc713c/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_ReaperTheReaping_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -828,16 +601,6 @@
           "name": "Fire Strike",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/568a5f49875557f735af36dce68474a923f7e8582a7be20fb68b6ee66ac077e6.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt50792e67d1fb678d/6333cb53399a07678557c0c7/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_ReinhardtFireStrike_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Barrier Field",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/121f13903665417446ee4673d9740080a3bc117e285cf3dcf6547861a0bc7d43.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt5695e9b05ef9ce53/6333cb5364fe5a7d44819f9c/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_ReinhardtBarrierField_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Earthshatter",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a63041a68d81c202a47a95035878edcfa75d5aa3f72414a7e84e1b1a68594bed.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blte056d921fd67ae1b/6333cb53ec7e18758be50fbc/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_ReinhardtEarthshatter_WEB_16x9_1920x1080p30_H264.webm"
         }
       ]
     },
@@ -864,11 +627,6 @@
           "name": "Take a Breather",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9cb8d867671bf917a9ba5d4a28ab6cb6ceeb10de2813567fcad97aca32c58499.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt2724dd22cef2d5e4/63390853f87c00687e8ef258/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_RoadhogTakeABreather_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Whole Hog",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/78faa90f268424c6e770168ec15f5bb880d0b14e5d10f22c30bfbb64ffe244a8.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt50c9064298ecbaa5/63390853425ea374105b6183/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_RoadhogWholeHog_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -895,16 +653,6 @@
           "name": "Accretion",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/594b0ecbb34b41b288c08bc7b040b273f25289ef0afc2d00828d6a30a0687236.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt33d9f580b3b81290/633908781ccd046877c0e519/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_SigmaAccretion_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Experimental Barrier",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ae2c31f159331f73739932e85dc21bdfa8eb4f2b2d2de4e89c1488445da34ffb.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blte0272f624d8612b6/633908783922a2677fc88d34/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_SigmaExperimentalBarrier_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Gravitic Flux",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7140d3eaf82e580ab465dcdb04bd1faaf77ac54550a12d17ecde7c4e87e963e0.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltecf5db9d67003b82/633908783917977bfd9861e7/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_SigmaGravaticFlux_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -931,11 +679,6 @@
           "name": "Disruptor Shot",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7e903d13474df377216191c5b5c128fc6d20befdc611af9f7baedfdfa3b59295.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt8a5aa99e05e3e5d7/6333cb8a64fe5a7d44819fa0/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_SojoiurnDisruptorShot_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Overclock",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/83bd9d101e779075fadaed194d1964897794c49ce56c59ccc34799753b55efeb.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blta2823450e1cf9cea/6333cb8a3917977bfd98611d/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_SojoiurnOverclock_WEB_16x9_1920x1080p30_H264.webm"
         }
       ]
     },
@@ -962,16 +705,6 @@
           "name": "Biotic Field",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/aaadd3dee89ac8797ecb7a1e647f574a034b1930726296fd17946d343254bdf0.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltb08a250ab35c1450/63390898ed7dcc6a002803e4/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_Soldier76BioticField_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Helix Rockets",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/8fedb348952552227b6e2ec85cf14214106b901afce2a9657267153bb2a8cac3.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltcb6d4bd1d99354df/63390898f87c00687e8ef260/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_Soldier76HelixRockets_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Tactical Visor",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/5e8d4b8fb5cd1271314b8462012e9894c811a7c4857739e73bde53f2431e673d.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt54d3b2e6d32771fc/63390898b8dbde69f5279934/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_Soldier76TacticalVisor_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -998,21 +731,6 @@
           "name": "Stealth",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/270bcdf26d66cda1f488e9b3286c3cb467c6e622d729420406ce69218380ae1a.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltf4dc7365a87462ec/6333cbb53917977bfd986121/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_SombraStealth_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Translocator",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e81f286184e24512c724af16a960a1faca6ade164238b025d19da64226f05f4d.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt35d9c3f26239a763/6333cbb5f87c00687e8ef18e/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_SombraTranslocator_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "EMP",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6104a559ac558db8f7356a10b419d1330e98758ba9f8099666d694c088c64265.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltd18bd3397d36348e/6333cbb4b8dbde69f5279860/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_SombraEMP_WEB_16x9_1920x1080p30_H264.webm"
-        },
-        {
-          "name": "Opportunist",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a30c48c19f3f5af06d1602e0fbd3a19f55d2b0845b76be8fa381a42c38fff09d.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt581bd891e1ce773b/6333cbb5399a07678557c0d1/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_SombraOpportunist_WEB_16x9_1920x1080p30_H264.webm"
         }
       ]
     },
@@ -1039,11 +757,6 @@
           "name": "Teleporter",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/13b45663f441144ded977e8ccf9ed180c213176206a9f6f9e189e29f09a03b64.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt844280e0657bde80/633908b23917977bfd9861eb/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_SymmetraTeleporter_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Photon Barrier",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/366a8cb1fd0718d4e2307674c713277b2a6c095c1997ddb7f4b9d9779063adb1.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltb7d0d5f74d918386/633908b264fe5a7d4481a0b0/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_SymmetraPhotonBarrier_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -1070,16 +783,6 @@
           "name": "Deploy Turret",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a3791d6155a72f1dd4109d99a7d730b5f489f0442abd6582b429bcca36a2dc75.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltf086a862a8064bf6/633908cd1ccd046877c0e525/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_TorbjornDeployTurret_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Overload",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/b59687c0dd86bbc41b754388e7b21deba5397c61808c0d9b375c062c9eaf85ac.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltf891342fb118320f/633908cd425ea374105b619b/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_TorbjornOverlord_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Molten Core",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/640e2363d97cfe133716bb2811d5dedb18faddb50ebbf77c415163ea50e87b41.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt96d2e75b4a135a37/633908cc7e84e17596f9c8e4/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_TorbjornMoltenCore_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -1106,11 +809,6 @@
           "name": "Recall",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/30939502a8576da1fdcad8c7d21881e32066fb28847fc7df874b1436689e3425.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt7cf38b0ed5faebd5/633908e73922a2677fc88d3c/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_TracerRecall_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Pulse Bomb",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/383e9b039efb93da77bb91fbeb3654ef50724e0cea0de76b2cc1c4db43de9a6d.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt5cd66f5b834aee96/633908e7ec7e18758be5109a/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_TracerPulseBomb_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -1137,11 +835,6 @@
           "name": "Venom Mine",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/82bb61b02224901170d8dc2fae143e695649cdfd7f5173a0e63a7742fd45bd84.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltf5bfed4950de67d7/633908fd2dc7636608cc7150/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_WidowmakerVenomMine_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Infra-Sight",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/b7783e8f83afc45dac37b80d0801a5b8200727e3dde299510d2f1886e0c7237b.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltb3bd04015067a36b/633908fde3c2a2741688cbed/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_WidowmakerInfraSight_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -1168,11 +861,6 @@
           "name": "Barrier Projector",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/469c290ded9fd33ce4ed927fc2da12c97483711e155f73bd7eaa05a399d5dbff.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltea367a7bb81d9b63/63390917b8dbde69f5279948/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_WinstonBarrierProjector_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Primal Rage",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/685608721cb914e0412a090eb1e89c0f5d10edfb3dbc34218ba3acd35611c990.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltb13bdf74c4d8ecc5/63390916e3c2a2741688cbf1/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_WinstonPrimalRage_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -1199,21 +887,6 @@
           "name": "Roll",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/b7f7e90bf3c3f26704133263896bded18e523e29dad2fe04c5f3c1bfa4472579.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt1647e69cd026e435/63390933425ea374105b61b1/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_WreckingBallRoll_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Piledriver",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3e884373721448d109c1646599cfe651a5bccdbc7a12d5062372c91b28acd80c.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blta4f6c25f940f0de9/633909331ccd046877c0e533/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_WreckingBallPiledriver_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Adaptive Shield",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/fa65af9c692405f968fafbeedcdfc9092b38a050dc3562bd41280390ccd7a21d.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltbaeeff56e963d366/63390933399a07678557c195/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_WreckingBallAdaptiveShield_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Minefield",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/17a54a345b715bc4301b330d8eb394f57e1c66308a8cba67f426de76a71ba868.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltdf3e4f10101ddd81/633909327e84e17596f9c8f8/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_WreckingBallMinefield_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -1240,16 +913,6 @@
           "name": "Projected Barrier",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6e42984ee8329a50e9c2460ae2df7670d7be9846a093c336e4576d1eea1fb2f1.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blte3d6e761cfcb66fd/6339094b2dc7636608cc7158/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_ZaryaProjectedBarrier_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Graviton Surge",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e58e60f939026f3d0ee95cf3a0b5fc8091da3c35a178d34c358700f3720a70d3.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt15d41f0bf4cfea69/6339094b1ccd046877c0e537/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_ZaryaGravitonSurge_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Energy",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/0df3be06b67b4a1a1788681f3b2e6795f4c76bef3870b9e3ad6eb2787c4fcc2c.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt029dd9aba45c1a23/6339094b8537f87bfbcdc45c/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_ZaryaEnergy_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     },
@@ -1276,16 +939,6 @@
           "name": "Orb of Harmony",
           "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/999f5d34dd3c8dfb045bc69129d1b6aac547b98e252b68f2599b878d15d841cb.png",
           "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltf546ab77ca486589/63390961b8dbde69f5279952/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_ZenyattaOrbOfHarmony_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Transcendence",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6ac5d4f08023cafc9f5412e45141cddecfdb2cb43ecf8415c12d1d161cce4678.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt075de741930a7d1c/633909612dc7636608cc715c/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_ZenyattaTranscendence_WEB_16x9_1920x1080p30_WEBM.webm"
-        },
-        {
-          "name": "Snap Kick",
-          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/c14b2c5652526a006233965b176fb2b5af9e7c5d44045fad3844267303f07091.png",
-          "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blte9a71d8b553eb877/633909603917977bfd986203/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_ZenyattaSnapKick_WEB_16x9_1920x1080p30_WEBM.webm"
         }
       ]
     }

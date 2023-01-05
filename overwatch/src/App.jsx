@@ -9,7 +9,7 @@ import Home from "./Home";
 const App = () => {
   const [heroes, setHeroes] = useState([]);
   const [currentlySelected, setcurrentlySelected] = useState("");
-
+  const [isAbilities, setAbilities] = useState(true);
   useEffect(() => {
     const fetchData = async () => {
       let res = await fetch("http://localhost:3000/heroes");
@@ -22,8 +22,13 @@ const App = () => {
 
   return (
     <div className="container">
-      <SelectedHero currentlySelected={currentlySelected} />
+      <SelectedHero
+        isAbilities={isAbilities}
+        setAbilities={setAbilities}
+        currentlySelected={currentlySelected}
+      />
       <HeroSelect setcurrentlySelected={setcurrentlySelected} heroes={heroes} />
+      )
     </div>
   );
 };
