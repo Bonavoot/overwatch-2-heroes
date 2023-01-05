@@ -1,6 +1,7 @@
 :root {
   width: 100vw;
   height: 100vh;
+  overflow: hidden;
   margin: 0;
   box-sizing: border-box;
   display: flex;
@@ -20,6 +21,7 @@ html {
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
+  margin-top: 50px;
 }
 
 h3 {
@@ -39,6 +41,10 @@ h3 {
   align-items: center;
   position: relative;
   box-shadow: 4px 0px 6px 6px black;
+}
+
+.full-logo {
+  height: 525px;
 }
 
 .selected-img {
@@ -107,21 +113,21 @@ h3 {
   font-weight: 700;
   font-size: 18pt;
   position: absolute;
-  right: 30px;
-  bottom: 20px;
+  left: 78px;
+  bottom: 345px;
   z-index: 2;
-  background: orange;
-  box-shadow: 0px 0px 2px 2px white;
-  color: white;
+  background: white;
+
+  color: orange;
   padding: 10px;
   border: none;
   cursor: pointer;
 }
 
 .abilities-btn:hover {
-  box-shadow: 0px 0px 3px 3px black;
-  background: white;
-  color: orange;
+  box-shadow: 0px 0px 2px 2px black;
+  background: orange;
+  color: white;
 }
 
 .abilities {
@@ -151,6 +157,149 @@ h3 {
 .video {
   right: 10%;
   bottom: 12%;
-
   border: rgb(0, 0, 0) solid 3px;
+}
+
+.logo {
+  animation: logo-animation linear 4s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 50%;
+  -webkit-animation: logo-animation linear 4s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-transform-origin: 50% 50%;
+  -moz-animation: logo-animation linear 4s;
+  -moz-animation-iteration-count: infinite;
+  -moz-transform-origin: 50% 50%;
+  -o-animation: logo-animation linear 4s;
+  -o-animation-iteration-count: infinite;
+  -o-transform-origin: 50% 50%;
+  -ms-animation: logo-animation linear 4s;
+  -ms-animation-iteration-count: infinite;
+  -ms-transform-origin: 50% 50%;
+  height: 1250px;
+}
+
+@keyframes logo-animation {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.990099773451273;
+  }
+  101% {
+    opacity: 0.99;
+  }
+}
+
+@-moz-keyframes logo-animation {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.990099773451273;
+  }
+  101% {
+    opacity: 0.99;
+  }
+}
+
+@-webkit-keyframes logo-animation {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.990099773451273;
+  }
+  101% {
+    opacity: 0.99;
+  }
+}
+
+@-o-keyframes logo-animation {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.990099773451273;
+  }
+  101% {
+    opacity: 0.99;
+  }
+}
+
+@-ms-keyframes logo-animation {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.990099773451273;
+  }
+  101% {
+    opacity: 0.99;
+  }
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.enter {
+  position: absolute;
+  bottom: 35px;
+  right: 75px;
+  margin-top: 120px;
+  padding: 15px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 18pt;
+  background: orange;
+  box-shadow: 0px 0px 2px 2px white;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.enter:hover {
+  box-shadow: 0px 0px 3px 3px black;
+  background: white;
+  color: orange;
+}
+
+.home-btn {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 18pt;
+  position: absolute;
+  left: 30px;
+  top: 15px;
+  z-index: 2;
+  background: orange;
+  box-shadow: 0px 0px 1px 1px white;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.home-btn:hover {
+  box-shadow: 0px 0px 3px 3px black;
+  background: white;
+  color: orange;
 }

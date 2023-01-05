@@ -3,6 +3,11 @@ import { useEffect, useState } from "react";
 import HeroSelect from "./HeroSelect";
 import SelectedHero from "./SelectedHero";
 import Home from "./Home";
+import {
+  BrowserRouter,
+  createBrowserRouter,
+  RouterProvider,
+} from "react-router-dom";
 
 // add <Home as a Route to "/"
 
@@ -20,16 +25,26 @@ const App = () => {
     fetchData();
   }, []);
 
-  return (
-    <div className="container">
-      <SelectedHero
-        isAbilities={isAbilities}
-        setAbilities={setAbilities}
-        currentlySelected={currentlySelected}
-      />
-      <HeroSelect setcurrentlySelected={setcurrentlySelected} heroes={heroes} />
-    </div>
-  );
+  const router = createBrowserRouter([
+    {
+      path: "/",
+      element: <Home />,
+    },
+    {
+      path: "heroselect",
+      element: (
+        <HeroSelect
+          isAbilities={isAbilities}
+          setAbilities={setAbilities}
+          currentlySelected={currentlySelected}
+          setcurrentlySelected={setcurrentlySelected}
+          heroes={heroes}
+        />
+      ),
+    },
+  ]);
+
+  return <RouterProvider router={router} />;
 };
 
 export default App;

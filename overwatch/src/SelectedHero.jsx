@@ -1,7 +1,9 @@
+import { useNavigate } from "react-router-dom";
 import Abilities from "./Abilities";
 import HeroInfo from "./HeroInfo";
 
 const SelectedHero = ({ currentlySelected, isAbilities, setAbilities }) => {
+  const navigate = useNavigate();
   return (
     <>
       {currentlySelected ? (
@@ -23,6 +25,9 @@ const SelectedHero = ({ currentlySelected, isAbilities, setAbilities }) => {
             onClick={() => setAbilities(!isAbilities)}
           >
             {isAbilities ? "SEE ABILITIES" : "SEE HERO INFO"}
+          </button>
+          <button className="home-btn" onClick={() => navigate("/")}>
+            HOME
           </button>
         </>
       ) : (
