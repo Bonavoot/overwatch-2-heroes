@@ -435,9 +435,9 @@ h3 {
   right: 60px;
   top: -15px;
   z-index: 2;
-  background: orange;
+  background: white;
   box-shadow: 0px 0px 1px 1px white;
-  color: white;
+  color: orange;
   padding: 10px;
   border: none;
   cursor: pointer;
@@ -533,6 +533,12 @@ h3 {
   }
 }
 
+.submit-team:hover {
+  box-shadow: 0px 0px 3px 3px black;
+  background: orange;
+  color: white;
+}
+
 input {
   width: 300px;
   height: 30px;
@@ -595,11 +601,14 @@ input:focus {
 }
 
 .composition-block > h1 {
-  margin-left: 15px;
-  margin: 0;
+  margin-left: 20px;
+  margin-bottom: 0;
+  color: cyan;
 }
 
 .my-teams-title {
   text-align: center;
+  padding-bottom: 13px;
   border-bottom: 2px solid white;
+  color: white;
 }
