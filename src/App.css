@@ -113,8 +113,8 @@ h3 {
   font-weight: 700;
   font-size: 18pt;
   position: absolute;
-  left: 30px;
-  bottom: 345px;
+  left: 45%;
+  bottom: 350px;
   z-index: 2;
   background: white;
   color: orange;
