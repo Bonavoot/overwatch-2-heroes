@@ -117,7 +117,6 @@ h3 {
   bottom: 345px;
   z-index: 2;
   background: white;
-
   color: orange;
   padding: 10px;
   border: none;
@@ -302,4 +301,295 @@ h3 {
   box-shadow: 0px 0px 3px 3px black;
   background: white;
   color: orange;
+}
+
+.composition-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.composition-page > h1 {
+  color: white;
+}
+
+.your-party {
+  display: flex;
+  text-align: center;
+  gap: 30px;
+  color: white;
+  width: 1400px;
+  height: 311px;
+  padding: 2%;
+  position: relative;
+  z-index: 2;
+}
+.selected-comp-hero > p {
+  font-size: 21pt;
+  margin-top: 4px;
+}
+
+.selected-comp-hero {
+  background-image: linear-gradient(black, rgb(136, 136, 136));
+}
+
+.slots {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  gap: 150px;
+  top: 17%;
+  padding: 30px;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 1400px;
+  height: 311px;
+}
+
+.slots > img {
+  height: 75px;
+  border: white solid 2px;
+  padding: 25px;
+  border-radius: 20%;
+}
+
+.create-comp-btn {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 18pt;
+  position: absolute;
+  left: 150px;
+  top: 15px;
+  z-index: 2;
+  background: orange;
+  box-shadow: 0px 0px 1px 1px white;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.create-comp-btn:hover {
+  box-shadow: 0px 0px 3px 3px black;
+  background: white;
+  color: orange;
+}
+
+.home-btn2 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 18pt;
+  position: absolute;
+  left: 30px;
+  top: 15px;
+  z-index: 2;
+  background: orange;
+  box-shadow: 0px 0px 1px 1px white;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.home-btn2:hover {
+  box-shadow: 0px 0px 3px 3px black;
+  background: white;
+  color: orange;
+}
+
+.heroes-btn2 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 18pt;
+  position: absolute;
+  left: 150px;
+  top: 15px;
+  z-index: 2;
+  background: orange;
+  box-shadow: 0px 0px 1px 1px white;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.heroes-btn2:hover {
+  box-shadow: 0px 0px 3px 3px black;
+  background: white;
+  color: orange;
+}
+
+.submit-team {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 18pt;
+  position: absolute;
+  right: 60px;
+  top: -50px;
+  z-index: 2;
+  background: orange;
+  box-shadow: 0px 0px 1px 1px white;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  animation: logo-animation linear 4s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 50%;
+  -webkit-animation: logo-animation linear 4s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-transform-origin: 50% 50%;
+  -moz-animation: logo-animation linear 4s;
+  -moz-animation-iteration-count: infinite;
+  -moz-transform-origin: 50% 50%;
+  -o-animation: logo-animation linear 4s;
+  -o-animation-iteration-count: infinite;
+  -o-transform-origin: 50% 50%;
+  -ms-animation: logo-animation linear 4s;
+  -ms-animation-iteration-count: infinite;
+  -ms-transform-origin: 50% 50%;
+}
+
+@keyframes logo-animation {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.990099773451273;
+  }
+  101% {
+    opacity: 0.99;
+  }
+}
+
+@-moz-keyframes logo-animation {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.990099773451273;
+  }
+  101% {
+    opacity: 0.99;
+  }
+}
+
+@-webkit-keyframes logo-animation {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.990099773451273;
+  }
+  101% {
+    opacity: 0.99;
+  }
+}
+
+@-o-keyframes logo-animation {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.990099773451273;
+  }
+  101% {
+    opacity: 0.99;
+  }
+}
+
+@-ms-keyframes logo-animation {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.990099773451273;
+  }
+  101% {
+    opacity: 0.99;
+  }
+}
+
+input {
+  width: 300px;
+  height: 30px;
+  font-size: 14pt;
+}
+
+input:focus {
+  box-shadow: 0px 0px 4px 3px orange;
+}
+
+.my-team-btn {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 18pt;
+  position: absolute;
+  right: 30px;
+  top: 15px;
+  z-index: 2;
+  background: orange;
+  box-shadow: 0px 0px 1px 1px white;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.my-team-btn:hover {
+  box-shadow: 0px 0px 3px 3px black;
+  background: white;
+  color: orange;
+}
+
+.my-comps-container {
+  z-index: 100;
+  position: absolute;
+  top: 90px;
+  height: 800px;
+  width: 750px;
+  border: 2px solid rgb(255, 255, 255);
+  color: white;
+  overflow: scroll;
+  background-image: linear-gradient(rgb(21, 21, 21), rgb(60, 60, 60));
+}
+
+.my-comp-img {
+  height: 90px;
+  margin-right: 30px;
+  margin-left: 15px;
+  border: white 2px solid;
+  border-radius: 50%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.composition-block {
+  margin-bottom: 5px;
+  border-bottom: 2px white solid;
+}
+
+.composition-block > h1 {
+  margin-left: 15px;
+  margin: 0;
+}
+
+.my-teams-title {
+  text-align: center;
+  border-bottom: 2px solid white;
 }

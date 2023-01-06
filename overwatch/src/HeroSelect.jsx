@@ -10,6 +10,7 @@ const HeroSelect = ({
   currentlySelected,
 }) => {
   const navigate = useNavigate();
+
   return (
     <div className="container">
       {currentlySelected ? (
@@ -23,6 +24,13 @@ const HeroSelect = ({
           <button className="home-btn" onClick={() => navigate("/")}>
             HOME
           </button>
+          <button
+            className="create-comp-btn"
+            onClick={() => navigate("/createcomp")}
+          >
+            CREATE TEAM
+          </button>
+
           <img
             className="full-logo"
             src="src/assets/full-logo.png"

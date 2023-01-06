@@ -26,8 +26,15 @@ const SelectedHero = ({ currentlySelected, isAbilities, setAbilities }) => {
           >
             {isAbilities ? "SEE ABILITIES" : "SEE HERO INFO"}
           </button>
+
           <button className="home-btn" onClick={() => navigate("/")}>
             HOME
+          </button>
+          <button
+            className="create-comp-btn"
+            onClick={() => navigate("/createcomp")}
+          >
+            CREATE TEAM
           </button>
         </>
       ) : (

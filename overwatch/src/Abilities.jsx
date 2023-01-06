@@ -38,5 +38,3 @@ const Abilities = ({ currentlySelected }) => {
 };
 
 export default Abilities;
-
-<img className="back" src="" alt="" srcset="" />;
