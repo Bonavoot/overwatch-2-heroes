@@ -39,7 +39,7 @@ const HeroSelect = ({
         </>
       )}
 
-      <div className="hero-select">
+      <div className="hero-select" id="hero-select-comp">
         <h1 className="select">SELECT A HERO</h1>
         {heroes.map((hero) => {
           return (

@@ -113,7 +113,7 @@ h3 {
   font-weight: 700;
   font-size: 18pt;
   position: absolute;
-  left: 78px;
+  left: 30px;
   bottom: 345px;
   z-index: 2;
   background: white;
@@ -156,7 +156,12 @@ h3 {
 .video {
   right: 10%;
   bottom: 12%;
-  border: rgb(0, 0, 0) solid 3px;
+  box-shadow: 0px 0px 4px 3px black;
+  background-image: url("src/assets/loading.gif");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 60px;
+  background-color: black;
 }
 
 .logo {
@@ -317,9 +322,10 @@ h3 {
   display: flex;
   text-align: center;
   gap: 30px;
+  margin-bottom: 25px;
   color: white;
   width: 1400px;
-  height: 311px;
+  height: 325px;
   padding: 2%;
   position: relative;
   z-index: 2;
@@ -330,6 +336,8 @@ h3 {
 }
 
 .selected-comp-hero {
+  margin-top: 25px;
+  border-bottom: cyan 4px solid;
   background-image: linear-gradient(black, rgb(136, 136, 136));
 }
 
@@ -343,7 +351,7 @@ h3 {
   padding: 30px;
   background-color: rgba(0, 0, 0, 0.5);
   width: 1400px;
-  height: 311px;
+  height: 295px;
 }
 
 .slots > img {
@@ -425,7 +433,7 @@ h3 {
   font-size: 18pt;
   position: absolute;
   right: 60px;
-  top: -50px;
+  top: -15px;
   z-index: 2;
   background: orange;
   box-shadow: 0px 0px 1px 1px white;
@@ -529,6 +537,8 @@ input {
   width: 300px;
   height: 30px;
   font-size: 14pt;
+  position: absolute;
+  top: 100px;
 }
 
 input:focus {

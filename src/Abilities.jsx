@@ -27,6 +27,7 @@ const Abilities = ({ currentlySelected }) => {
               muted
               autoPlay
             >
+              TESTING
               <source src={ability.video} type="video/webm" />
               Your browser does not support the video tag.
             </video>
