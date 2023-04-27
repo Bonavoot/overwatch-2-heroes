@@ -7,7 +7,7 @@ const SelectedHero = ({ currentlySelected, isAbilities, setAbilities }) => {
   return (
     <>
       {currentlySelected ? (
-        <>
+        <div className="selected-hero-container">
           {isAbilities ? (
             <HeroInfo
               currentlySelected={currentlySelected}
@@ -36,7 +36,7 @@ const SelectedHero = ({ currentlySelected, isAbilities, setAbilities }) => {
           >
             CREATE TEAM
           </button>
-        </>
+        </div>
       ) : (
         false
       )}

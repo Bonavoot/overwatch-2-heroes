@@ -22,7 +22,7 @@ const Abilities = ({ currentlySelected }) => {
             <video
               key={ability.name}
               className="video"
-              width="540"
+              width="360"
               loop
               muted
               autoPlay

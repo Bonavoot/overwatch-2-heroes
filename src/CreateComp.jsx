@@ -56,21 +56,12 @@ const CreateComp = ({ heroes }) => {
       >
         HEROES
       </button>
-
       <input
+        className="comp-name"
         onChange={handleNameChange}
         type="text"
         placeholder="Enter Team Name"
       />
-      {
-        <div className="slots">
-          <img src="src/assets/plus.png" alt="plus" />
-          <img src="src/assets/plus.png" alt="plus" />
-          <img src="src/assets/plus.png" alt="plus" />
-          <img src="src/assets/plus.png" alt="plus" />
-          <img src="src/assets/plus.png" alt="plus" />
-        </div>
-      }
       <div className="your-party">
         {comp.length >= 5 ? (
           <button
@@ -82,19 +73,21 @@ const CreateComp = ({ heroes }) => {
         ) : (
           false
         )}
-        {comp.map((hero) => {
-          return (
-            <div
-              className="selected-comp-hero"
-              onClick={() => {
-                removeMember(hero);
-              }}
-            >
-              <img src={hero.image} />
-              <p>{hero.name}</p>
-            </div>
-          );
-        })}
+        <div className="selected-comp-hero-container">
+          {comp.map((hero) => {
+            return (
+              <div
+                className="selected-comp-hero"
+                onClick={() => {
+                  removeMember(hero);
+                }}
+              >
+                <img src={hero.image} />
+                <p>{hero.name}</p>
+              </div>
+            );
+          })}
+        </div>
       </div>
       <button onClick={() => setIsToggled(!isToggled)} className="my-team-btn">
         MY TEAMS

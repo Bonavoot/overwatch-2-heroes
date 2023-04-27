@@ -4,15 +4,10 @@
   overflow: hidden;
   margin: 0;
   box-sizing: border-box;
-  display: flex;
   font-family: "Open Sans", sans-serif;
 }
 
 html {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
   background-image: linear-gradient(rgb(0, 0, 17), rgb(59, 59, 59));
 }
 
@@ -20,8 +15,8 @@ html {
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 60px;
   justify-content: space-between;
-  margin-top: 50px;
 }
 
 h3 {
@@ -30,13 +25,17 @@ h3 {
 
 .logo {
   height: 450px;
-  align-self: center;
+  position: absolute;
+  top: -130px;
+}
+
+.selected-hero-container {
+  margin-top: 60px;
 }
 
 .selected-hero {
   display: flex;
   width: 100vw;
-  height: 525px;
   gap: 100px;
   align-items: center;
   position: relative;
@@ -44,10 +43,11 @@ h3 {
 }
 
 .full-logo {
-  height: 525px;
+  height: 425px;
 }
 
 .selected-img {
+  width: 220px;
   border: white 2px solid;
   margin-left: 50px;
 }
@@ -66,11 +66,13 @@ h3 {
   font-weight: 700;
   padding-left: 15px;
   background-color: rgb(255, 255, 255);
-  padding: 15px;
+  padding: 12px;
   color: rgb(0, 0, 0);
 }
 
 .select {
+  position: absolute;
+  top: -75px;
   font-family: "Open Sans", sans-serif;
   color: rgb(116, 239, 255);
   font-size: 2rem;
@@ -83,12 +85,10 @@ h3 {
 }
 
 .hero-select {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: flex-start;
-  width: 1000px;
+  display: grid;
+  grid-template: repeat(3, 1fr) / repeat(12, 1fr);
   gap: 15px;
+  position: relative;
 }
 
 .hero-img {
@@ -111,11 +111,9 @@ h3 {
 .abilities-btn {
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
-  font-size: 18pt;
-  position: absolute;
-  left: 45%;
-  bottom: 350px;
-  z-index: 2;
+  font-size: 14pt;
+
+  bottom: 0px;
   background: white;
   color: orange;
   padding: 10px;
@@ -132,25 +130,26 @@ h3 {
 .abilities {
   color: white;
   display: grid;
+  justify-content: center;
   grid-template: auto / 1fr 1fr 1fr;
-  height: 525px;
+  height: 356px;
   width: 100vw;
-  gap: 30px;
+  gap: 20px;
+  position: relative;
   box-shadow: 4px 0px 6px 6px black;
 }
 
 .ability {
-  padding-left: 25px;
-  padding-right: 25px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  font-size: 12pt;
+  justify-content: center;
+  font-size: 8pt;
 }
 
 .ability-img {
-  height: 55px;
-  margin-top: 30px;
+  height: 40px;
+  margin-top: 0px;
 }
 
 .video {
@@ -289,7 +288,7 @@ h3 {
 .home-btn {
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
-  font-size: 18pt;
+  font-size: 12pt;
   position: absolute;
   left: 30px;
   top: 15px;
@@ -312,6 +311,11 @@ h3 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  gap: 100px;
+  height: 100vh;
+  width: 100vw;
 }
 
 .composition-page > h1 {
@@ -320,42 +324,46 @@ h3 {
 
 .your-party {
   display: flex;
-  text-align: center;
-  gap: 30px;
-  margin-bottom: 25px;
-  color: white;
-  width: 1400px;
-  height: 325px;
-  padding: 2%;
-  position: relative;
+  justify-content: center;
+  flex-direction: column;
+  gap: 25px;
   z-index: 2;
+  position: relative;
 }
+
+.selected-comp-hero-container {
+  display: flex;
+  gap: 15px;
+  min-width: 935px;
+  min-height: 233px;
+  border-bottom: solid 5px rgb(53, 53, 53);
+  background-color: rgb(13, 13, 13);
+  padding: 20px;
+}
+
 .selected-comp-hero > p {
-  font-size: 21pt;
-  margin-top: 4px;
+  color: white;
+  text-align: center;
 }
 
 .selected-comp-hero {
-  margin-top: 25px;
   border-bottom: cyan 4px solid;
   background-image: linear-gradient(black, rgb(136, 136, 136));
+  height: fit-content;
+}
+
+.selected-comp-hero > img {
+  height: 175px;
+  border-bottom: black solid 3px;
 }
 
 .slots {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  gap: 150px;
-  top: 17%;
-  padding: 30px;
   background-color: rgba(0, 0, 0, 0.5);
-  width: 1400px;
-  height: 295px;
 }
 
 .slots > img {
-  height: 75px;
+  height: 65px;
   border: white solid 2px;
   padding: 25px;
   border-radius: 20%;
@@ -364,7 +372,7 @@ h3 {
 .create-comp-btn {
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
-  font-size: 18pt;
+  font-size: 12pt;
   position: absolute;
   left: 150px;
   top: 15px;
@@ -386,7 +394,7 @@ h3 {
 .home-btn2 {
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
-  font-size: 18pt;
+  font-size: 12pt;
   position: absolute;
   left: 30px;
   top: 15px;
@@ -408,7 +416,7 @@ h3 {
 .heroes-btn2 {
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
-  font-size: 18pt;
+  font-size: 12pt;
   position: absolute;
   left: 150px;
   top: 15px;
@@ -430,10 +438,10 @@ h3 {
 .submit-team {
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
-  font-size: 18pt;
+  font-size: 12pt;
   position: absolute;
-  right: 60px;
-  top: -15px;
+  right: 0px;
+  top: -50px;
   z-index: 2;
   background: white;
   box-shadow: 0px 0px 1px 1px white;
@@ -554,7 +562,7 @@ input:focus {
 .my-team-btn {
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
-  font-size: 18pt;
+  font-size: 12pt;
   position: absolute;
   right: 30px;
   top: 15px;
@@ -573,12 +581,18 @@ input:focus {
   color: orange;
 }
 
+.comp-name {
+  position: absolute;
+  top: 50px;
+}
+
 .my-comps-container {
   z-index: 100;
   position: absolute;
+  font-size: 10pt;
   top: 90px;
-  height: 800px;
-  width: 750px;
+  height: 650px;
+  width: 475px;
   border: 2px solid rgb(255, 255, 255);
   color: white;
   overflow: scroll;
@@ -586,7 +600,7 @@ input:focus {
 }
 
 .my-comp-img {
-  height: 90px;
+  height: 45px;
   margin-right: 30px;
   margin-left: 15px;
   border: white 2px solid;
