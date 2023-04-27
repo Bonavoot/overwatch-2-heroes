@@ -12,7 +12,7 @@ const App = () => {
 
   useEffect(() => {
     const fetchData = async () => {
-      let res = await fetch("http://localhost:3000/heroes");
+      let res = await fetch("public/db.json");
       let heroData = await res.json();
       setHeroes(heroData);
     };

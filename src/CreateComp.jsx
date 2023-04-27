@@ -31,7 +31,7 @@ const CreateComp = ({ heroes }) => {
       name: teamName,
     };
 
-    fetch(" http://localhost:3004/comps", {
+    fetch("public/comps.json", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
