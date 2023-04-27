@@ -1,6 +1,6 @@
 import "./App.css";
 import { useEffect, useState } from "react";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import HeroSelect from "./HeroSelect";
 import Home from "./Home";
 import CreateComp from "./CreateComp";
@@ -20,30 +20,29 @@ const App = () => {
     fetchData();
   }, []);
 
-  const router = createBrowserRouter([
-    {
-      path: "/",
-      element: <Home />,
-    },
-    {
-      path: "heroselect",
-      element: (
-        <HeroSelect
-          isAbilities={isAbilities}
-          setAbilities={setAbilities}
-          currentlySelected={currentlySelected}
-          setcurrentlySelected={setcurrentlySelected}
-          heroes={heroes}
+  return (
+    <Router>
+      <Routes>
+        <Route exact path="/" component={Home} />
+        <Route
+          path="/heroselect"
+          render={() => (
+            <HeroSelect
+              isAbilities={isAbilities}
+              setAbilities={setAbilities}
+              currentlySelected={currentlySelected}
+              setcurrentlySelected={setcurrentlySelected}
+              heroes={heroes}
+            />
+          )}
         />
-      ),
-    },
-    {
-      path: "createcomp",
-      element: <CreateComp heroes={heroes} />,
-    },
-  ]);
-
-  return <RouterProvider router={router} />;
+        <Route
+          path="/createcomp"
+          render={() => <CreateComp heroes={heroes} />}
+        />
+      </Routes>
+    </Router>
+  );
 };
 
 export default App;

@@ -1631,6 +1631,142 @@
       ],
       "name": "Team Fire",
       "id": 12
+    },
+    {
+      "team": [
+        {
+          "name": "D.VA",
+          "role": "tank",
+          "link": "https://overwatch.blizzard.com/heroes/dva",
+          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ca114f72193e4d58a85c087e9409242f1a31e808cf4058678b8cbf767c2a9a0a.png",
+          "BGimage": "https://images.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltcd4bcf30a5794639/631a8b65f581050de0035df6/2600_Dva.jpg",
+          "description": "D.Va is a former professional gamer who now uses her skills to pilot a state-of-the-art mech in defense of her homeland.",
+          "origin": "MEKA Base, Busan, South Korea (formerly), Watchpoint: Gibraltar",
+          "abilities": [
+            {
+              "name": "Fusion Cannons",
+              "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/29bd15ebb32c23483a59df18a79f71301b2128c05b2f8d0c052ab86e0715e07d.png",
+              "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt0cf1edda6843f5e5/633905182dc7636608cc7122/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_DVaFusionCannons_WEB_16x9_1920x1080p30_WEBM.webm"
+            },
+            {
+              "name": "Light Gun",
+              "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/24074dececa8bf7b57628509e70731916db62b5ab5b30660ac1727b20bbc5b4d.png",
+              "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt52541924e0fba2d1/633905177e84e17596f9c8a6/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_DVaLightGun_WEB_16x9_1920x1080p30_WEBM.webm"
+            },
+            {
+              "name": "Boosters",
+              "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/89d6beb25b21eacd5a181b96438436692d9ad403fcef19873e506f6d46ed37a3.png",
+              "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt7d432cfbd853fe5b/63390517ec7e18758be51046/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_DVaBoosters_WEB_16x9_1920x1080p30_WEBM.webm"
+            }
+          ]
+        },
+        {
+          "name": "CASSIDY",
+          "role": "damage",
+          "link": "https://overwatch.blizzard.com/heroes/cassidy",
+          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6cfb48b5597b657c2eafb1277dc5eef4a07eae90c265fcd37ed798189619f0a5.png",
+          "BGimage": "https://images.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt4bb4c31f6849c25b/631a8b781613910e6926bfd4/2600_Cassidy.jpg",
+          "description": "Armed with his Peacekeeper revolver, the outlaw Cole Cassidy doles out justice on his own terms.",
+          "origin": "Santa Fe, New Mexico, USA (formerly), Watchpoint: Gibraltar",
+          "abilities": [
+            {
+              "name": "Peacekeeper",
+              "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/afb27d71eeb6f3635ac1ff236c7b3f9e3c6d017360ce022d5d384288ff95bce7.png",
+              "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltcff86b9875852be9/6333c9873917977bfd986103/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_CassidyPeacekeeper_WEB_16x9_1920x1080p30_H264.webm"
+            },
+            {
+              "name": "Combat Roll",
+              "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/24a3f2f619859812bba6b6374513fa971b6b19ccb34950c02118b41cc4f93142.png",
+              "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt494207e32218a728/6333c98764fe5a7d44819f84/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_CassidyCombatRoll_WEB_16x9_1920x1080p30_H264.webm"
+            },
+            {
+              "name": "Magnetic Grenade",
+              "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47a593ad7f83394b011161e67a6f414e49f2221c5e014ea909fdcd9df4f94371.png",
+              "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt689182d19367028e/6333c9878537f87bfbcdc342/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_CassidyMagneticGrenade_WEB_16x9_1920x1080p30_H264.webm"
+            }
+          ]
+        },
+        {
+          "name": "MOIRA",
+          "role": "support",
+          "link": "https://overwatch.blizzard.com/heroes/moira",
+          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/000beeb5606e01497897fa9210dd3b1e78e1159ebfd8afdc9e989047d7d3d08f.png",
+          "BGimage": "https://images.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt0556ab9582933672/631a8b176d5f7a0df8d92794/2600_Moira.jpg",
+          "description": "Equal parts brilliant and controversial, scientist Moira O'Deorain is on the cutting edge of genetic engineering, searching for a way to rewrite the fundamental building blocks of life.",
+          "origin": "Oasis, Iraq",
+          "abilities": [
+            {
+              "name": "Biotic Grasp",
+              "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9721148061d528df7b3b5a90f746a82dc2b53b191add15e0962f8dcaf0777aa0.png",
+              "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt8460b5752a19b002/6339074d8537f87bfbcdc430/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_MoiraBioticGrasp_WEB_16x9_1920x1080p30_WEBM.webm"
+            },
+            {
+              "name": "Biotic Orb",
+              "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a5a235623aeb7fce1ce8e545e5be2d95b48fddf609c174fc5067efd7681ac72f.png",
+              "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt7a5d059d25c96faa/6339074db8dbde69f527991a/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_MoiraBioticOrb_WEB_16x9_1920x1080p30_WEBM.webm"
+            },
+            {
+              "name": "Fade",
+              "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ba44615a7e3799d50bc2194079dd88177f98d4050a28acba6cd33ad1daaf7b5b.png",
+              "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltcad822ac9b23de95/6339074ee3c2a2741688cbcd/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_MoiraFade_WEB_16x9_1920x1080p30_WEBM.webm"
+            }
+          ]
+        },
+        {
+          "name": "MERCY",
+          "role": "support",
+          "link": "https://overwatch.blizzard.com/heroes/mercy",
+          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2508ddd39a178d5f6ae993ab43eeb3e7961e5a54a9507e6ae347381193f28943.png",
+          "BGimage": "https://images.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltc7021b63955d7b54/631a8b1e3ab6f40dd2a906a5/2600_Mercy.jpg",
+          "description": "A guardian angel to those who come under her care, Dr. Angela Ziegler is a peerless healer, a brilliant scientist, and a staunch advocate for peace.",
+          "origin": "Zürich, Switzerland (formerly), Watchpoint: Gibraltar",
+          "abilities": [
+            {
+              "name": "Caduceus Staff ",
+              "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d1a18f702a0e30d58608da51a0b8eeeab72a04faf0de3579ce625066caa8389e.png",
+              "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt22f7741a623ba2e9/633906b23922a2677fc88d2c/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_MercyCaduceusStaff_WEB_16x9_1920x1080p30_WEBM.webm"
+            },
+            {
+              "name": "Caduceus Blaster",
+              "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9d3118f2f0a262678fb1b11ffbaa3f5e929e453cb4d7c819e69ff137cde918e1.png",
+              "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blte6cb581ff09f1b39/633906b21ccd046877c0e509/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_MercyCaduceusBlaster_WEB_16x9_1920x1080p30_WEBM.webm"
+            },
+            {
+              "name": "Guardian Angel",
+              "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e6d6f1f8288bb9a61fcfb85db90a49d3228277d18ac190898567bed4e7799ddc.png",
+              "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt50bbbe7878b50caa/633906b21a0b5e7d3d1ec5c1/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_MercyGuardianAngel_WEB_16x9_1920x1080p30_WEBM.webm"
+            }
+          ]
+        },
+        {
+          "name": "PHARAH",
+          "role": "damage",
+          "link": "https://overwatch.blizzard.com/heroes/pharah",
+          "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f8261595eca3e43e3b37cadb8161902cc416e38b7e0caa855f4555001156d814.png",
+          "BGimage": "https://images.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltae2251cef8936b19/631a8af2636d390da7825dd7/2600_Pharah.jpg",
+          "description": "Fareeha Amari's commitment to duty runs in her blood. She comes from a long line of highly decorated soldiers and burns with the desire to serve with honor.",
+          "origin": "Giza, Egypt (formerly), Watchpoint: Gibraltar",
+          "abilities": [
+            {
+              "name": "Rocket Launcher",
+              "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/c5fee4019276f284dc81e3eaa4f6244a3a7477fbcebc2b5e70a1b9bdfc0fab9b.png",
+              "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt92e3339cc85682e9/633907a0da1d806602f83f1e/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_PharahRocketLauncher_WEB_16x9_1920x1080p30_WEBM.webm"
+            },
+            {
+              "name": "Jump Jet",
+              "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ab8ffe4008a1c257f1014d55a5306fcd3d81cde8ffad569b240f74c4c13a4130.png",
+              "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt4997f410e7d9abe2/633907a0ed7dcc6a002803d6/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_PharahJumpJet_WEB_16x9_1920x1080p30_WEBM.webm"
+            },
+            {
+              "name": "Concussive Blast",
+              "image": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9747b440730824756ae2d17e4d1f38468f36c985c35f56cf1f175a613279479a.png",
+              "video": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt68298287826d9c93/633907a064fe5a7d4481a098/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_PharahConcusiveBlast_WEB_16x9_1920x1080p30_WEBM.webm"
+            }
+          ]
+        }
+      ],
+      "name": "",
+      "id": 13
     }
   ]
 }
