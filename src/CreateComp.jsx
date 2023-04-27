@@ -31,7 +31,7 @@ const CreateComp = ({ heroes }) => {
       name: teamName,
     };
 
-    fetch("public/comps.json", {
+    fetch("public/data/db.json", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

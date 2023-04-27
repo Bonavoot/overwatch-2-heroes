@@ -12,7 +12,8 @@ const App = () => {
 
   useEffect(() => {
     const fetchData = async () => {
-      let res = await fetch("public/db.json");
+      let publicUrl = import.meta.env.BASE_URL || "/";
+      let res = await fetch(`${publicUrl}data/db.json`);
       let heroData = await res.json();
       setHeroes(heroData);
     };
